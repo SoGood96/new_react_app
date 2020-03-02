@@ -1,0 +1,30 @@
+.profile {
+
+}
+
+.about-me {
+  display: flex;
+}
+
+.about-me img {
+  margin-right: 30px;
+}
+
+.content-prof {
+  display: flex;
+  flex-direction: column;
+}
+
+.text-prof {
+  width: 600px;
+  height: 100px;
+}
+
+.btn-prof {
+  width: 130px;
+  margin-bottom: 30px;
+  margin-top: 20px;
+  background-color: green;
+  padding: 10px;
+  color: beige;
+}
