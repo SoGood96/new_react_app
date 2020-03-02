@@ -1,5 +1,6 @@
 import React from 'react';
 import './Posts.module.css'
+import PostOne from './PostOne/PostOne';
 
 const Posts = () => {
     return (
@@ -7,13 +8,8 @@ const Posts = () => {
          <h3> Мои посты</h3>
          <textarea className='text-prof'></textarea>
          <button className='btn-prof'>Опубликовать</button>
+        <PostOne/>
             
-            <div>
-                 post 1
-            </div>
-            <div>
-                 post 2
-            </div>
         </div>
   
     )

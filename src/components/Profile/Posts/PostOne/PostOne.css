@@ -1,0 +1,18 @@
+.post {
+  display: flex;
+}
+.post_ava {
+  margin-right: 40px;
+  border:solid green 3px;
+  padding: 5px;
+  width: 40px;
+  height: 40px;
+}
+
+.post button {
+  height: 40px;
+  margin-left: 20px;
+  border: solid green 3px;
+  text-align: center;
+  font-size: 18px;
+}
