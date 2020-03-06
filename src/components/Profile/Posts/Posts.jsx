@@ -8,7 +8,9 @@ const Posts = () => {
          <h3> Мои посты</h3>
          <textarea className='text-prof'></textarea>
          <button className='btn-prof'>Опубликовать</button>
-        <PostOne/>
+        <PostOne mess='Hello)'/>
+        <PostOne mess='Oooo, Hi)'/>
+        <PostOne mess='How are you??)'/>
             
         </div>
   
